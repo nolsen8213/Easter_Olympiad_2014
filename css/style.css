@@ -16,3 +16,212 @@
 */
 
 
+body{ 
+    background-image: url('C:/Users/Jedediah/Desktop/Easter_Olympiad_2014-gh-pages/img/blueprint2a.JPG');}
+
+.header {
+        background-color:#FFD700;
+        padding-top:20px;}
+
+        
+h1 {
+    font-family: arial, verdana, sans-serif;
+    color: black;
+    text-align:center;
+    margin-top: 2px;}
+
+image.align-left {
+    float:left;
+    margin-right:10px;}
+imag.align-right {
+    float:right;
+    margin-left: 10px;}
+
+.construction {
+    font-family: arial, verdana, sans-serif;
+    color:white;
+    text-align:right;
+    margin-right:207px;
+    margin-top:-7px;
+    font-size:1.5em;}
+
+
+
+.silentauction {margin-top:-25px;}
+
+.blackborder {
+    background-color:black;
+    padding:5px;}
+
+.blackborderbottom {
+    background-color:black;
+    padding:2px;}
+
+.content { 
+    margin-top:-20px;
+    height:1000px;
+    background-color:white;
+    }
+
+nav.main {
+    
+    background-color:black;
+    padding-top:2px;
+    height:50px;
+    width:900px;}
+
+nav.main li {
+    display:inline;
+    padding:40px;}
+nav.main a {
+    text-decoration:none;
+    font-family: arial black, arial, verdana, sans-serif;
+    color:white;}
+nav.main a:hover, nav.main a.active {
+     color:#f99d1c;
+    }
+    
+ 
+img.invite {
+    float:left;
+    margin-right:30px;
+    margin-left:50px;
+    padding-bottom:10px;}
+
+h3.opening {
+    text-align:center;
+    color:red;}
+
+div.opening {
+    text-align:center;
+    margin-right:40px;
+    padding-top:40px;
+    padding-bottom:70px;}
+
+a {
+    color:red;}
+
+nav.side {
+    margin-top:50px;
+    float:left;
+    height:100%;
+    margin-right:60px;
+    margin-left:20px;
+    position:fixed;
+    }
+
+nav.side a {
+    text-decoration:none;
+    font-family: arial, verdana, sans-serif;
+    color:white;
+    }
+    
+ nav.side div.current {
+    width:130px;
+    margin-bottom:10px;
+    margin-top:10px;
+    background-color:#f99d1c;
+    
+    }
+    
+nav.side a.current {
+    color:black;
+    font-family: "arial black";}
+
+nav.side div {
+    background-color:#6d6e70;
+    margin: 5px;
+    padding:5px;
+    width:100px;
+    text-align:center;
+   }
+
+div.list {
+    margin-top: 110px;
+    margin-right:40px;
+    margin-left:25%;
+    }
+div.list h1 {
+    text-align:center;
+    color:#f99d1c;
+    font-family: "arial black", arial;
+    font-size:2.5em;
+    margin-bottom:100px;
+    margin-top:100px;}
+
+.cone {
+    float:right;
+        }
+  
+div.list b {
+    color:#e2bf21;}
+
+div.list i {
+    font-size:.75em;
+    line-height:.5em;
+    }
+
+div.list img {
+    margin-right:15px;
+    margin-bottom:10px;
+    margin-top:-15px;}
+    
+img.screwdriver {
+    
+    margin-bottom:30px; }
+    
+.date {
+    text-align:center;
+    font-family: "arial black", arial, sans-serif;
+    color:red;
+    font-size:1.5em;
+    line-height:1.7em;}
+
+.cost {
+    background-color:#f99d1c;
+    width:40%;
+    float:left;
+    height:auto;
+    color:black;
+    padding:30px;
+    margin-left:20px;
+    
+   }
+   
+
+.rsvp {
+    float:right;
+    width:50%;
+    text-align:center;
+    margin-right:40px;}
+
+.rsvp b {
+    color:red;}
+.deadline {
+    font-family: "arial black";
+       font-size:2em;
+        }
+    
+.schedule {
+    margin-left:20px;
+    width:40%;
+    margin-bottom:50px;}
+    
+.letter {
+    text-align:left;
+    margin:50px;}
+.pta {
+    float:right;
+    margin:1px;}
+.letter h2 {
+    color:#f99d1c;}
+.letter i {
+    color:#f99d1c;}
+.bottom {
+    margin-top:80px;
+    margin-bottom:20px;}
+.details{
+    text-align:center;
+    float:right;
+   
+    margin-right:50px;}
