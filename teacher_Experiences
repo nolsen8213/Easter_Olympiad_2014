@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>	   <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>		   <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>		   <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title></title>
+	<meta name="description" content="">
+	
+	<!-- Enable responsive layouts; tell browsers not to shrink pages to fit small screens -->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<!-- Load styles -->
+	<!-- for production, combine all of these stylesheets -->
+	<link rel="stylesheet" href="css/style.css">
+	
+	<script src="js/vendor/modernizr-2.6.2.min.js"></script>
+
+</head>
+<body>
+    
+
+	<!-- page content goes inside the container -->
+    
+	<div class="container">
+        
+      
+            
+		
+   
+        <div class="header">
+          <img src="img/white-stripes.png" class="align-left"/>
+            
+            <h1>Clermont Elementary School</h1>
+           
+            <div class="silentauction" align= "center">
+               <img src="img/SIlent-auction-text.png"/>
+            </div>
+            
+            <p class="construction"> 2014 Under Construction</p>
+        </div>
+        
+        <div class="blackborder"></div>
+        
+        <img src="img/yellow-stripe.png" width="900" height="50"/>
+        
+         <div class="blackborderbottom"></div>
+        
+    
+        <nav class="main">
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="donate.html">Donate</a></li>
+                <li><a href="event.html">Event</a></li>
+                <li><a href="around_town.html">Catalog</a></li>
+                <li><a href="donors_sponsors.html">Donors & Sponsors</a></li>
+            </ul>
+        </nav>
+
+        
+    
+      <nav class="side">
+          <div><a href="around_town.html">Around Town</a></div>
+          <div><a href="home_and_garden.html">Home & Garden</a></div>
+          <div><a href="better-you.html">A Better You</a></div>
+          <div><a href="family-fun.html">Family Fun</a></div>
+          <div class="current"><a href="teacher_Experiences.html" class="current">Teacher Experiences</a></div>
+          <div><a href=live-auction.html>Live Auction</a></div>
+       
+    </nav>
+        
+        <div class="list">
+            <img src="img/traffic_cone.jpg" class="cone" width="150"/>
+            <h1>Teacher Experiences</h1>
+        
+               <p><b>T101 Pizza Party with Mrs. Collier, Mrs. Herchert, Mrs. Reed & Miss Shott (K)</b>
+                <br />The Kindergarten teachers cannot wait to lunch with your child. Four children will win pizza during lunch with the kindergarten team, and to top it off, each winner may bring a                          friend!
+                         <br /><i>Donated By: Kindergarten Teachers<br />Value:Priceless</i></p>
+            
+                 <p><b>T102 After School Movie with Miss Shott (K)</b>
+                    <br />Just the right kind of detention!! 4 Kindergarten students to be detained after school for a movie and popcorn in the classroom. The starring role, none other than Miss Shott,                       our favorite new Clermont Kindergarten teacher! Each of the students may bring along a friend! 
+                     <br /><i>Donated By: Ms. Shott<br />Value:Priceless</i></p>
+            
+            <p><b>T103 After School Movie with Mrs. Brown (1st)</b>
+                    <br />Let’s go to the movies, at Clermont! (4) First Grade students can enjoy the company of Mrs. Brown, as she features a fabulous afternoon of a movie and delcious popcorn. Each                         student can invite a friend to join in on the fun!
+                     <br /><i>Donated By: Mrs. Brown<br />Value:Priceless</i></p>
+                
+            <p><b>T104 Think Fun! with Mrs. Brown (1st)</b>
+                    <br />What do you think of when you think of Mrs. Brown? Think Fun! 4 winning students can bring along a friend to play Think Fun/Strategies Lab games one morning from 8:10-8:40.,                         while enjoying a breakfast treat! What a way to start the school day!
+                     <br /><i>Donated By: Mrs. Brown<br />Value:Priceless</i></p>
+              
+            <p><b>T105 Special Event with Mrs. Brown (1st)</b>
+                    <br />We all have fun places to be with our children, but what could throw a fun day ove- the- edge is Mrs. Brown showing up! Winner will receive a guest appearance from none other                        than their lovely first grade teacher, Mrs. Brown. Whether you choose a swim meet, music recital, ball game, or a Girl or Boy Scout meeting, she’s in!
+                     <br /><i>Donated By: Mrs. Brown<br />Value:Priceless</i></p>
+            
+            <p><b>T106 After School Movie with Mrs. Franklin & Mrs. Phillips</b>
+                    <br />Munch on popcorn, and hang out afterschool with two of the coolest First Grade teachers. The 4 winning children are invited to each bring one guests as their date to this                            matinee!
+                     <br /><i>Donated By: Mrs. Franklin and Mrs. Phillips<br />Value:Priceless</i></p>
+            <p><b>T107 Flicks with Mrs. Fleitz, Mrs. Strutton, and Ms. Rogers (2nd)</b>
+                <br />Nothing could be better than matinee flicks with Mrs. Fleitz, Mrs. Strutton and Ms. Rogers! Enjoy an afternoon hanging out with these cool, fun, energetic second grade teachers!                     (3) winningstudents can invite a friend to watch a movie and enjoy popcorn, after school, at Clermont.
+                    <br /><i>Donated by: Mrs. Fleitz, Mrs. Strutton & Ms. Rogers <br /></>Value: Priceless</i></p>
+            
+            <p><b>T108 Premiere Afternoon with Ms. Morrow, Ms. McNamara and Ms. Tingley (3rd)</b>
+                <br />Matinee with Ms. Morrow, Ms.McNamara and Ms. Tingley – now that ‘s the way to spend an afternoon, chillin’ out with the terrific third grade team! (3) winning students can each                      invite a friend to watch the movie and enjoy popcorn, after school at Clermont!
+                    <br /><i>Donated by: Ms. Morrow, Ms. McNamara & Ms. Tingley<br />Value: Priceless</i></p>
+            
+            <p><b>T109 Special Event with Ms. Morrow (3rd)</b>
+                <br />Mrs. Morrow promises to pop up at your child’s speical event such as a sporting event, music performance, or Girl/Boy Scout Meeting . Can you imagine how excited they will be to                     see their favorite third grade teacher in the mix at one of these events? Priceless
+                    <br /><i>Donated by: Ms. Morrow Value: Priceless</i></p>
+            <p><b>T110 Nail Spa with Ms. Cangro, Mrs. Gift and Ms. Owens (Specialist)</b>
+                <br />Have your childen enjoy a bit of pampering and beauty, as they are treated to nail art fun by their Specialist teachers. 3 winners can share the fun with a friend each, at                           Clermont, after school.
+                    <br /><i>Donated by: Ms. Cangro, Mrs. Gift & Ms. Owens <br />Value: Priceless</i></p>
+            
+            <p><b>T111 Sweet Frog for some Fro-Yo with Mrs. Mullet, Ms. Mastrianni, and Ms. Tobin (4th)</b>
+                <br />What could be sweeter than having the winning bid on this offering? Three lucky students will meet the teachers at Sweet Frog, on Richmond Hwy, for a frozen treat at a pre-                          determined date and time. It’s a date!
+                    <br /><i>Donated by: Mrs. Mullet, Ms. Mastrianni & Ms. Tobin <br />Value: Priceless</i></p>
+            <p><b>T112 Anchor the Clermont NEWS show with Ms. Owens (Library)</b>
+                <br />Your superstar will have an opportunity to be an anchor on our daily news show to deliver the latest, up to date news that all Clermont students need to know. Your child will have                   an opportunity to learn how to use the camera, work with our 6th graders and be on the daily show that every student in the building watches! This will be a great opportunity for your                   child to see and learn what goes on behind the scenes on our Morning News Show.
+                    <br /><i>Donated by: Ms. Owens <br />Value: Priceless</i></p>
+            <p><b>T113 Dinner with Mrs. Cox (5th)</b>
+                <br />What could be finer than dinner at Mrs. Cox’s home? Our lovely Mrs. Cox invites the winning bidder’s child and (3) friends to her home for spaghetti, Wii gaming, and a little                        ping-pong action! Sure to be at hit amoung the fifth graders! Parents must provide transportation to & from her house in Fairfax Station.
+                    <br /><i>Donated by: Mrs. Cox <br />Value: Priceless</i></p>
+            
+            <p><b>T114 Movie with Ms. DeLosa (5th)</b>
+                <br />A divine time with Delosa! Spend the afternoon hanging out with a favorite 5th grade teacher, and enjoy a movie and buttery popcorn in the classroom, after school! 4 winning bids!
+                    <br /><i>Donated by: Ms. DeLosa <br />Value: Priceless</i></p>
+            
+            <p><b>T115 Teacher for a Day with Ms. Johnston (6th)</b>
+                <br />Be Ms. Johnston for the Day! Meet with Ms. Johnston one morning before school to plan your lesson. She will provide the lesson plans and materials. Be co-teacher for the day                         during your social studies rotation. Duties include: passing out papers, sitting in Ms. J’s chair, writing down homework assignments on the board and of course co- teaching the lesson                   with Ms. Johnston. Then have lunch in the teacher’s lounge with your other sixth grade teachers, Ms. Probasco and Mr. Zaspel. Ms. Johnston will provide your lunch. You will be also                     given 5 Eagle Bucks to hand-out to students who you believe have displayed good citizenship during the school day.
+                 <br /><i>Donated by: Ms. Johnston <br />Value: Priceless</i></p>
+            
+            <p><b>T116 Baked Treats Courtesy of Mrs. Treger</b>
+                <br />Mrs. Treger wearing her other hat, “Baker”, will lovingly provide her specialty: homemade fudgy brownies for your child to share with their class, in the cafeteria. Save it for                      your child’s birthday, or any day, as a speical treat!
+                    <br /><i>Donated by: Mrs. Treger <br />Value: Priceless</i></p>
+            
+            <p><b>T117 Gaming with Mr. Zaspel (6th)</b>
+                <br />What? Hang out after school and play Xbox36O with Mr. Z? How cool is that? Mr. Zaspel, a favorite 6th grade teacher invites the winning bidder, and two friends to stay after                         school and play non-violent, sport centered games one afternoon, after dismissal. Mr. Z will also provide snacks to munch on!
+                    <br /><i>Donated by: Mr. Zaspel <br />Value: Priceless</i></p>
+            
+            <p><b>T118 Sparkle Nail Salon with Miss Probasco (6th)</b>
+                <br />Fancy, Fancy! 2 winning students can each bring a friend to paint & sparkle their nails with Miss Probasco one day after school. Spa snack will be enjoyed!
+                    <br /><i>Donated by: Ms. Probasco <br />Value: Priceless</i></p>
+            
+            <p><b>T119 Kickball!!!</b>
+                <br />Calling 6 lucky winners to a game of kickball against the red hot Clermont teacher’s team! Each student gets to bring a friend to play an after-school!
+                    <br /><i>Donated by: Mr. Zaspel, Mrs. Ajello, Ms. Tobin, Ms. Johnston, Mr. Lee, Mr. Ramirez, Ms. Rogers, Ms. Mastrianni, Ms. Carver, Ms. Pettie, Ms. Robinson, Ms. Probasco and Mrs.                        Treger <br />Value: Priceless</i></p>
+            
+            <p><b>T120 Love Reading with Ms. Marrone</b>
+                <br />What could be more amazing than spening time with Ms. Marron reading speacial story books? Topping off with a basket of favorite children's books for grades K-2!!!! Highest bidder                   wins.
+                    <br /><i>Donated by: Ms. Marrone <br />Value: Priceless</i></p>
+            
+            <p><b>T121 Ms. Carver, and Ms. Marrone</b>
+                <br />Get ready to hunker down and send your children to the library for a “read in”, Each student can invite a friend to a “Read-in” in the library for 1½ hours after school.                             Pizza,goody bags, and reading are all necessary for me!!
+                    <br /><i>Donated by: Ms. Carver & Ms. Marrone <br />Value: Priceless</i></p>
+            
+            <p><b>T122 Cheer for the Nationals with Ms. Hauser and Ms. Restifo</b>
+                <br />Take us out to the ballgame!!! Four students can join Ms. Hauser and Ms. Restifo at a Nats game to be scheduled in the spring.
+                    <br /><i>Donated by: Ms. Hauser & Ms. Restifo <br />Value: Priceless</i></p>
+                
+                
+                </div>
+ 
+
+        
+            
+    
+                
+      
+	</div><!-- end container -->
+	
+
+	<!-- Load scripts -->
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+	<script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
+	<script src="js/plugins.js"></script>
+	<script src="js/main.js"></script>
+
+</body>
+</html>
