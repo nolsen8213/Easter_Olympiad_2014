@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>	   <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>		   <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>		   <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title></title>
+	<meta name="description" content="">
+	
+	<!-- Enable responsive layouts; tell browsers not to shrink pages to fit small screens -->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<!-- Load styles -->
+	<!-- for production, combine all of these stylesheets -->
+	<link rel="stylesheet" href="css/style.css">
+	
+	<script src="js/vendor/modernizr-2.6.2.min.js"></script>
+
+</head>
+<body>
+    
+
+	<!-- page content goes inside the container -->
+    
+	<div class="container">
+        
+      
+            
+		
+   
+        <div class="header">
+          <img src="img/white-stripes.png" class="align-left"/>
+            
+            <h1>Clermont Elementary School</h1>
+           
+            <div class="silentauction" align= "center">
+               <img src="img/SIlent-auction-text.png"/>
+            </div>
+            
+            <p class="construction"> 2014 Under Construction</p>
+        </div>
+        
+        <div class="blackborder"></div>
+        
+        <img src="img/yellow-stripe.png" width="900" height="50"/>
+        
+         <div class="blackborderbottom"></div>
+        
+    
+        <nav class="main">
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="donate.html">Donate</a></li>
+                <li><a href="event.html">Event</a></li>
+                <li><a href="around_town.html">Catalog</a></li>
+                <li><a href="donors_sponsors.html">Donors & Sponsors</a></li>
+            </ul>
+        </nav>
+
+        
+    
+      <nav class="side">
+          <div><a href="around_town.html">Around Town</a></div>
+          <div class="current"><a href="home_and_garden.html" class="current">Home & Garden</a></div>
+          <div><a href="better-you.html">A Better You</a></div>
+          <div><a href="family-fun.html">Family Fun</a></div>
+          <div><a href="teacher_Experiences.html">Teacher Experiences</a></div>
+          <div><a href=live-auction.html>Live Auction</a></div>
+       
+    </nav>
+        
+        <div class="list">
+             <img src="img/traffic_cone.jpg" class="cone" width="150"/><h1>Home & Garden</h1>
+        
+                <p><b>H101 One Pest Control Treatment</b>
+                    <br />Creepy crawlers? Who needs’em? Let Better Termite & Pest Control rid your home of these buggers! Winner will receive one general pest treatment. General pests include crawling                           insects such as ants, spiders and crickets. Termintes, carpenter ants and any other wood destroying insects are excluded from this treatment.
+                            <br /><i>Donated by: Better Termite & Pest Control <br />Value: $250</i></p><img src="img/termite%20logo.jpg" width="191" height="93"/>
+                
+                <p><b>H102 8 Hours of Handyman Service</b><br />Holidays around the corner, and company coming? Have a Honey-Do List, that DIDN'T??? Have no fear! Manton, LLC, is here! 8 hours toward                     your list, or deduct 8 hours from a bigger project you might contract to us! With over 15 years of experience, Manton provides unmatched remodeling services to the Northern 
+                  Virginia area. At Manton, we guarantee high quality finishes at reasonable prices. We specialize in room additions, kitchens, bathrooms, tiling, interior and exterior painting and                       basement refinishing.<br /><i>Donated by: Manton LLC <br />Value: $750</i></p></p><img src="img/manton-logo.png" width="342" height="119"/>
+                
+                <p><b>H103 $100 Credit Towards Car Service or Repairs</b><br />Is "Betsy" giving you a hard time? Is she not running like a top? Have Bimmer Automotive pick up and tow your vehicle to                     Beltsville, and repair it. Gift Card entitles winner to $100 credit toward car services and repairs. Expires 11/15/14.<br /><i>Donated by: Bimmer Werks Auto Shop<br />Value: $100</i>
+               
+                <p><b>H104 Bone Voyage & Ft. Hunt Animal Hospital Gift Certificates</b><br />Does Fido need to go out while you are at work? Could you use a break in the cost of those veterinary                              visits? Sniff no further! Bone Voyage is here, and Fort Hunt Animal Hospital is offering help, too. Bone Voyage is offering $180 towards pet sitting or dog walking, and with this                        you will receive $50 off veterinary services at Fort Hunt Animal Hospital. (Must be used by April 30, 2014. Excludes sale items, prescriptions and dietary products.)
+                    <br /><i>Donated by: Bone Voyage, Inc and Ft. Hunt Animal Hospital<br />Value: $230</i></p><img src="img/bone%20voyage.GIF" width="155" height="170"/>
+               
+                <p><b>H105 Professional Organizing</b><br />Where did I put that? Where should this go? Splendidly Organized will let you know! Winner will receive one hour consultation plus three                        hours of hands-on organizing. Service area inside the beltway. Expires May 1, 2014
+                    <br /><i>Donated by:Splendidly Organized <br />Value: $190</i></p> 
+        
+                <p><b>H106 Interior Styling Basket</b><br />Let two local realtors (and fabulous Clermont Moms) work their magic, transforming your home with a professional staging consultation. A $50                    Home Goods gift card will also be included in your prize package, and will help you get started, making your home picture perfect!
+                    <br /><i>Donated by: S.T.A.R Realty Group Avery-Hess Realtors <br />Value: $350</i></p><img src="img/star.jpg" width="200" height="124"/>
+        
+                                                            
+        
+                
+                </div>
+ 
+
+        
+            
+    
+                
+      
+	</div><!-- end container -->
+	
+
+	<!-- Load scripts -->
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+	<script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
+	<script src="js/plugins.js"></script>
+	<script src="js/main.js"></script>
+
+</body>
+</html>
