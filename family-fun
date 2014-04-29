@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>	   <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>		   <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>		   <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title></title>
+	<meta name="description" content="">
+	
+	<!-- Enable responsive layouts; tell browsers not to shrink pages to fit small screens -->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<!-- Load styles -->
+	<!-- for production, combine all of these stylesheets -->
+	<link rel="stylesheet" href="css/style.css">
+	
+	<script src="js/vendor/modernizr-2.6.2.min.js"></script>
+
+</head>
+<body>
+    
+
+	<!-- page content goes inside the container -->
+    
+	<div class="container">
+        
+      
+            
+		
+   
+        <div class="header">
+          <img src="img/white-stripes.png" class="align-left"/>
+            
+            <h1>Clermont Elementary School</h1>
+           
+            <div class="silentauction" align= "center">
+               <img src="img/SIlent-auction-text.png"/>
+            </div>
+            
+            <p class="construction"> 2014 Under Construction</p>
+        </div>
+        
+        <div class="blackborder"></div>
+        
+        <img src="img/yellow-stripe.png" width="900" height="50"/>
+        
+         <div class="blackborderbottom"></div>
+        
+    
+        <nav class="main">
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="donate.html">Donate</a></li>
+                <li><a href="event.html">Event</a></li>
+                <li><a href="around_town.html">Catalog</a></li>
+                <li><a href="donors_sponsors.html">Donors & Sponsors</a></li>
+            </ul>
+        </nav>
+
+        
+    
+      <nav class="side">
+          <div><a href="around_town.html">Around Town</a></div>
+          <div><a href="home_and_garden.html">Home & Garden</a></div>
+          <div><a href="better-you.html">A Better You</a></div>
+          <div class="current"><a href="family-fun.html" class="current">Family Fun</a>                 </div>
+          <div><a href="teacher_Experiences.html">Teacher Experiences</a></div>
+          <div><a href=live-auction.html>Live Auction</a></div>
+       
+    </nav>
+        
+        <div class="list">
+            <img src="img/traffic_cone.jpg" class="cone" width="150"/>
+            <h1>Family Fun</h1>
+             
+        
+                <p><b>F101 One Hour Photo Shoot</b>
+                    <br />Say Cheese!!!!! Portrait photographer and Clermont parent, Ben Herman, offers an hour-long photo shoot of your family at a local park, your home, or any Alexandria location of                       your choice. 
+                    <br /><i>Donated by: Ben Herman<br />Value: $200</i></p>
+                
+                <p><b>F102 One Hour Photo Shoot</b><br />Are you in need of that perfect holiday card family photo? Do you need a head shot for your website? Chris Reese, Clermont Dad and photographer,                   is here to offer a one hour photo shoot for you at your preferred location. The winning bidder will receive the digital files of your photo shoot!
+                        <br /><i>Donated by: Revolve Solutions LLC <br />Value: $250</i></p></p><img src="img/revolve%20logo.jpg" width="269" height="85"/>
+                
+                <p><b>F104 Family 4 Pack for Rebounderz</b><br />Kids got too much energy? Put these (4) one hour passes to Rebounderz in Sterling to good use. What better way to get the wiggles out                      then with 24,000 square feet of jumping space. Waiver required to participate. No expiration date.
+                    <br /><i>Donated by: Rebounderz<br />Value: $68</i></p><img src="img/rebounderz%20logo.jpg" width="176" height="72"/>
+               
+                <p><b>F105 Kids Nite at SportRock & Dinner for Two at Theismann's</b><br />Send your kids to Kid's Nite to climb the walls at Sportrock, and go and unwind at Theismann's for dinner as a 
+                    couple! One of Sportrock's most successful programs, Kid's Nite was created for children between the ages of six and fourteen. This program gives children the opportunity to                             experience the vertical world in a safe, comfortable environment. With guidance from our experienced instructors, participants climb throughout the facility. Maximum registration is                     16 kids per group. Fridays 6:30-8PM. Theismann's Restaurant and Bar is located only 2 miles from Sportrock, and is a great place to catch a game, while dinning on great Americana 
+                    grub! (Gift Card good for two entrees, Dine in only. Beverages, Tax & Gratuity additional.)
+                    <br /><i>Donated by: Sportrock and Theismann’s Restaurant & Bar<br />Value: $125</i></p><img src="img/sportrock%20logo.jpg" width="360" height="140"/><img                                                  src="img/theisman%20restaurant.jpg" width="477" height="94"/> 
+               
+                <p><b>F111 A Family Membership to Virginia Hills Swim Club</b><br />Can't Wait till Summer? Get the ball rolling early this year, and sign up for a year of swimming, diving and all                        round summer fun for the entire family at Virginia Hills Community Pool. This pass is good 2014 swim season (May-Sept). The Club will not honor any other certificates purchased at                      other silent auctions this year or in subsequent years by the buyer. Current Shareholding members are not eligible to purchase this certificate for personal use.
+                    <br /><i>Donated by: Virginia Hills Swim Club <br />Value: $790</i></p> <img src="img/va%20hills%20logo.png"  width="800" height="159"/>
+        
+                        
+                <p><b>F112 One Month of Pop/Rock Music Lessons</b><br />Looking to taking up an instrument? Already jamming to tunes on your own? How about some Pop/Rock music lessons? Winning bid                        receives one month (4) weekly 1/2 hour music lessons at The Metropolitan School of the Arts!
+                    <br /><i>Donated by:Donated by: Metropolitan School of Arts <br />Value: $280</i></p><img src="img/metropolitan%20logo.png" width="307" height"80"/>  
+        
+                <p><b>F115 Two week session at Camp Cody</b><br />Are you ready to send your kids away for a few weeks in the summer? Are they ready to get away from you? Here's their ticket! The                         winning bid receives a two week session to Camp Cody! Camp Cody is a premier traditional New England summer camp founded in 1926. Nestled on the sandy beaches of beautiful Lake 
+                  Ossipee amidst the White Mountains of New Hampshire, Cody offers a summer experience rich in fun, friendship, learning and adventure. Cody’s campers attend from New England, across                     the USA, and a dozen countries. Information on Camp Cody can be found at www.campcody.com. Session Dates: June 22nd - July 5th OR August 3rd - August 16th. (See certificate for                         restrictions.)
+                    <br /><i>Donated by: Camp Cody<br />Value: $3,050</i></p><img src="img/camp%20cody%20logo.jpg" width="258" height="196"/>
+        
+                <p><b>F116 Medieval Times Dinner</b><br />Huzzah! King Carlos and his daughter, Pricess Catalina cordially invite you and a guest to a wonderful "knight" of feasting, fighting and fun                     at Medieval Times Dinner and Tournament at Arundel Mills.                 
+                    <br /><i>Donated by: Medieval Times Dinner and Tournament<br />Value: $114</i></p><img src="img/medieval%20times.jpg" width="405" height="124"/>
+        
+                <p><b>F117 Downton Abbey Gift Pack</b><br />Are you hooked on PBS's hit series, Downton Abbey? Or just waiting to be sucked in? This series is a dramatic and emotional show that takes                     place in an idyllic period setting of the early 20th Century, after the sinking of the Titanic. The prominent Crawley Family are the inhabitants of Downton Abbey and is bustling and                     run by Robert, Earl of Grantham. Alongside, and more influential wife, Cora, and their three daughters, haven’t lived the toughest of lives but will soon come upon emotional and                         physical battles. In the back view, a cadre of servants that bring a humanistic and real life 99% to the show that people can relate to. Enjoy DVDs of seasons 1, 2 and 3, a glossy                       Downton Abbey calendar, and a coordinating tote bag that broadcasts your love for this amazing offering!
+                    <br /><i>Donated by: Jennifer Byrne <br />Value: $120</i></p><img src="img/downton%20logo.jpg" width="279" height="180"/>
+        
+                
+                </div>
+ 
+
+        
+            
+    
+                
+      
+	</div><!-- end container -->
+	
+
+	<!-- Load scripts -->
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+	<script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
+	<script src="js/plugins.js"></script>
+	<script src="js/main.js"></script>
+
+</body>
+</html>
