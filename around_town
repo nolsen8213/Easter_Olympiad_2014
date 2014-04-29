@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>	   <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>		   <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>		   <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title></title>
+	<meta name="description" content="">
+	
+	<!-- Enable responsive layouts; tell browsers not to shrink pages to fit small screens -->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<!-- Load styles -->
+	<!-- for production, combine all of these stylesheets -->
+	<link rel="stylesheet" href="css/style.css">
+	
+	<script src="js/vendor/modernizr-2.6.2.min.js"></script>
+
+</head>
+<body>
+    
+
+	<!-- page content goes inside the container -->
+    
+	<div class="container">
+        
+      
+            
+		
+   
+        <div class="header">
+          <img src="img/white-stripes.png" class="align-left"/>
+            
+            <h1>Clermont Elementary School</h1>
+           
+            <div class="silentauction" align= "center">
+               <img src="img/SIlent-auction-text.png"/>
+            </div>
+            
+            <p class="construction"> 2014 Under Construction</p>
+        </div>
+        
+        <div class="blackborder"></div>
+        
+        <img src="img/yellow-stripe.png" width="900" height="50"/>
+        
+         <div class="blackborderbottom"></div>
+        
+    
+        <nav class="main">
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="donate.html">Donate</a></li>
+                <li><a href="event.html">Event</a></li>
+                <li><a href="around_town.html" class="active">Catalog</a></li>
+                <li><a href="donors_sponsors.html">Donors & Sponsors</a></li>
+            </ul>
+        </nav>
+
+        
+    
+      <nav class="side">
+          <div class="current"><a href="around_town.html" class="current">Around Town</a></div>
+          <div><a href="home_and_garden.html">Home & Garden</a></div>
+          <div><a href="better-you.html">A Better You</a></div>
+          <div><a href="family-fun.html">Family Fun</a></div>
+          <div><a href="teacher_Experiences.html">Teacher Experiences</a></div>
+          <div><a href=live-auction.html>Live Auction</a></div>
+       
+    </nav>
+        
+        <div class="list">
+             <img src="img/traffic_cone.jpg" class="cone" width="150"/><h1>Around Town</h1>
+        
+                <p><b>B101 Aquilano Salon & Fontaine Gift Card</b>
+                    <br />Make an appointment and treat your tresses at Aquilano Salon, and then meet a friend for lunch at Fontaine Caffe and Crêperie! Aquilano Salon is conveniently located on the                      north end of Old Town, and prides itself on a place of beauty, comfort , relaxation and where clients are welcomed as family. Aquilano specializes in full service hair treatments for                    both men and women. Fontaine Caffe and Crêperie specializes in French style savory and sweet crepes!<br /><i>Donated by: Aquilano Salon and Fontaine Caffe and Crêperie <br />Value:                      $150</i></p><img src="img/fontaine%20logo.jpg" width="300" height="65"/><img src="img/aquilano%20logo.png" width="300" height="150"/>
+                
+                <p><b>B102 Restaurant Gift Card Pack</b><br />Take a load off, by enjoying 4 Friday nights (or any night of the week), not having to wonder what's for supper! In this package you will                    enjoy (1) $25.00 gift card to each of the following 4 restaurants: Famous Dave's, Haute Dog, The Light Horse, and Bungalow Billiards! Who doesn't love Famous Dave's for their amazing                    BBQ? Have a hankering for a New England hot dog? Go to Haute Dogs & Fries for their exceptional taste at a exceptional value. The Light Horse is a fun Old town restaurant featuring a                    fresh seasonal menu, great beer, and wine selections, live entertainment, and all the necessary distractions people are looking for, including skeeball, shuffleboard tables and                          interactive games. Or check out Bungalow Billiards, with plenty of space to sit back and relax, gather with friends and enjoy the game!<br /><i>Donated by: Famous Daves, Michael C.                      Montante, CPA & Associates, P.C. and The Bungalow Billards <br />Value: $100</i></p></p><img src="img/famous%20dave%20logo.jpg" width="150" height="75"/><img src="img/haute%20dogs%20logo.jpg" width="150" height="72"/> <img src="img/lighthorse%20logo.jpg" width="145" height="145"/> <img src="img/bungalow%20logo.jpg" width="150" height="95"/>
+                
+                <p><b>B103 Springfield Butcher Thrift Pack</b><br />A meat lovers bounty! Enjoy the Springfield Butcher as they offer the finest quality meats, including a variety of specialty meats.                    Stock up on this thrift pack containing a selection of fine quality meats, including 3lbs. Boneless Pork Roast, 3lbs Center-cut Pork Chops, 1lbs. Coney Island Franks, 1lbs. Cube                        Steak, 4lbs. Cut up Chicken, 2lbs. Ground Chuck, 1lbs. Italian Sausage, 1lbs. Lamb Patties, 3lbs. Pot Roast, 2lbs. Sirloin Patties, 3lbs. Spareribs, 2lbs. T-bone Steak. Sure to                          make a grown man cry!<br /><i>Donated by: Mary Kelly<br />Value: $129</i>
+               
+                <p><b>B104 Old Town Restaurant Gift Card Pack</b><br />A fabulous date night is yours! Enjoy dinner at one of Old Town's landmarks, Union Street Public House, and then cruise on down                    the Potomac, followed with drinks at Southside 815! Behold the splendor of America's monuments and the city of Washington aboard a narrated cruise on the Potomac River. Stopovers are                    allowed with roundtrip tickets, so there is time to shop, dine, sightsee or attend a cultural event in either Alexandria or Georgetown, then board a later cruise returning to the                        original departure point. Cruise highlights include Washington's majestic monuments, landmarks, buildings and bridges -- The Lincoln Memorial, the Jefferson Memorial, the Washington                    Monument, and the John F. Kennedy Center for the Performing Arts, to name a few. Depart from the quaint and historic seaport of Old Town Alexandria with its cobblestone streets or                      from world-famous Georgetown with its upscale shops, pubs and restaurants. Each leg of the cruise is approximately 45 minutes long, and the narration is divided evenly between the two                  departure locations.<br /><i>Donated by: Union Street Public House, Potomac Riverboat Company & Southside 815<br />Value: $100</i></p><img src="img/union%20street%20logo.jpg"                             width="250" height="58"/><img src="img/potomac%20riverboat%20logo.jpg" width="233" height="153"/> <img src="img/southside%20logo.gif" width="96" height="91"/>
+               
+                <p><b>B105 2014 Spring Symphony Subscription for Two</b><br />Enjoy the remaining three shows at your local world-class symphony. Let the arts enlivenyou as your and                                       guest enjoy exciting  works by Beethoven, Debaussy, Gershwin, Jenkins, Rossini, Verdi and Wagner, while seated in the first floor orchestra section.<br /><i>Donated by:                                  Alexandria Symphony Orchestra <br />Value: $340</i></p> <img src="img/aso-200x125.jpg" alt="symphony logo" width="200" height="125"/>
+        
+                <p><b>B106 Tickets to "Proof" and Murphy's Pub Gift Card</b><br />What could be better than a bit of theater and a nightcap, afterwards? Winner of the 2001 Pulitzer Prize for Drama,                     "Proof" explores the link between love and the mysteries of science. This drama focuses on Catherine, a young woman who spent years caring for her mentally ill, yet brilliant                            mathematician father. After his death, Catherine is forced to examine her choices and explore her own mathematical brilliance. Are mathematical proofs in her future, or will the same                    mental illness that plagued her father prevent Catherine from proving her abilities as well? You'll receive two tickets to "Proof" and a $25.00 gift card to Murphy's Irish Pub, one of                  Old Town's most established watering holes! Note: performance date is March 12, 2014 at 8:00pm.<br /><i>Donated by: The Little Theatre of Alexandria and Murphy’s Irish Pub <br />                        Value: $59</i></p><img src="img/little%20theatre%20of%20alexandria%20logo.jpg" width="360" height="140"/><img src="img/murphey's%20logo.png" width="192" height="51"/>
+        
+                <p><b>B107 Holiday Shopping at Red Barn & Bishop Boutique</b><br />Have fun shopping for the holidays, or spoiling yourself and your home with two fabulous $50 gift cards; one to Bishop                   Boutique, and one to Red Barn Mercantile! Finish your day out right with dinner or drinks at Overwood, one of Old Town's favorite local restaurants. Now that's the way to spend a day,                   Ladies!<br /><i>Donated by: Michael C. Montante, CPA & Associates, P.C. and Overwood<br />Value: $150</i></p><img src="img/RBM_logo.gif" alt="redbarn logo" width="208" height"122"/>                     <img src="img/download.jpg" alt="bb logo" width="150" height="150"/>
+        
+                <p><b>B109 A Cruise on Nina’s Dandy</b><br />Go off shore, if only for the while, and cruise down the Potomac for a romantic getaway on the Nina’s Dandy. Experience a memory, having a                     four course dinner aboard Nina’s Dandy. There’s so much to see while on the cruise: cherry blossoms, the monuments, beautiful Old Town Alexandria, the new magnificent Gaylord at                         National Harbor, the new Nationals Ballpark and Washington Harbor – all while druising on our historic Potomac River. For the most romantic dinner, Nina’s Dandy and remember that a                     Night On The Water Beats a Night on the Town. Receive a $100 gift card valid towards a four – course dinner for two, any day of the week! Certain holiday restrictions apply.<br />                      <i>Donated by: Dandy Restaurant Cruise Ships<br />Value: $100</i></p>
+        
+                <p><b>B108 Theatre and After Dinner Drinks</b><br />Need a great escape for an evening? We have 2 tickets to the production of the Twelfth Night at the Synetic Theatre in Shirlington.                     Couple it with after dinner drinks at The Carlyle, and you are refreshed, renewed and entertained! Includes two tickets to the show, and a $25 gift card to Great American Restaurant.                  <br /><i>Donated by: Synetic Theater & Great American Restaurant<br />Value: $135</i></p><img src="img/syntheticlogo.jpg" width="200" height="134"/><img                                                   src="img/great%20american%20logo.jpg" width="180" height="106"/>
+        
+                
+                </div>
+ 
+
+        
+            
+    
+                
+      
+	</div><!-- end container -->
+	
+
+	<!-- Load scripts -->
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+	<script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
+	<script src="js/plugins.js"></script>
+	<script src="js/main.js"></script>
+
+</body>
+</html>
