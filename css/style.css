@@ -17,13 +17,14 @@
 
 
 body{ 
-    background-image: url('C:/Users/Jedediah/Desktop/Easter_Olympiad_2014-gh-pages/img/blueprint2a.JPG');}
-
+    background-image: url('../img/blueprint2a.jpg')}
+.container {
+    background-color:white;
+    height:auto;}
 .header {
+        padding-top:10px;
         background-color:#FFD700;
-        padding-top:20px;}
-
-        
+              }        
 h1 {
     font-family: arial, verdana, sans-serif;
     color: black;
@@ -57,49 +58,54 @@ imag.align-right {
     background-color:black;
     padding:2px;}
 
-.content { 
-    margin-top:-20px;
-    height:1000px;
-    background-color:white;
-    }
 
 nav.main {
     
     background-color:black;
     padding-top:2px;
     height:50px;
-    width:900px;}
+    width:100%;}
 
 nav.main li {
     display:inline;
-    padding:40px;}
+    padding:4%;}
 nav.main a {
     text-decoration:none;
     font-family: arial black, arial, verdana, sans-serif;
     color:white;}
-nav.main a:hover, nav.main a.active {
+nav.main a:hover {
      color:#f99d1c;
     }
+nav.main a.active{
+    color:#aaa;
+}
     
  
-img.invite {
-    float:left;
-    margin-right:30px;
-    margin-left:50px;
-    padding-bottom:10px;}
 
-h3.opening {
+
+.introheader {
     text-align:center;
-    color:red;}
+    color:red;
+ background-color:#d0d0d0;
+    padding-bottom:10px;
+    padding-top:10px;
+    margin-right:20px;
+    width:400px;
+    float:right;
+}
 
-div.opening {
-    text-align:center;
-    margin-right:40px;
-    padding-top:40px;
-    padding-bottom:70px;}
 
-a {
-    color:red;}
+
+
+
+.here {
+    font-weight:bold;
+    font-size:1.5em;
+    color:red;
+    line-height:1.3em;
+    text-decoration:none;
+    }
+
 
 nav.side {
     margin-top:50px;
@@ -137,21 +143,12 @@ nav.side div {
    }
 
 div.list {
-    margin-top: 110px;
+    
     margin-right:40px;
     margin-left:25%;
     }
-div.list h1 {
-    text-align:center;
-    color:#f99d1c;
-    font-family: "arial black", arial;
-    font-size:2.5em;
-    margin-bottom:100px;
-    margin-top:100px;}
 
-.cone {
-    float:right;
-        }
+           
   
 div.list b {
     color:#e2bf21;}

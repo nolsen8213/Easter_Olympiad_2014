@@ -4,9 +4,70 @@
 	margin-right: auto;
 	margin-bottom: 1em;
 	margin-left: auto;
-	width: 90%;
+	width: 100%;
 	max-width: 800px;
-	padding: 2em;
 	border: 1px solid #eee;
+    
 }
 
+.content {
+    width:800px;
+    margin-top:40px;
+    background-color:white;
+    padding:5px;
+    padding-bottom:10px;
+}
+
+.introheader {
+    text-align:center;
+    color:red;
+ background-color:#d0d0d0;
+    padding-bottom:10px;
+    padding-top:10px;
+    margin-right:20px;
+    width:400px;
+    float:right;
+}
+
+.invitation {
+    float:left;
+    
+    margin-right:40px;
+    margin-left:20px
+}
+
+.first {
+    margin-top:10px;
+}
+    
+
+
+.cone { 
+    display:block;
+    margin-left:350px;
+    margin-top:60px;
+}
+
+
+
+nav.side {
+    margin-top:50px;
+    height:100%;
+    margin-right:60px;
+    margin-left:20px;
+    position:fixed;
+    }
+.list {    
+    float:right
+    width:600px;
+    }
+
+
+.list img {
+    margin-right:15px;
+    margin-bottom:10px;
+    margin-top:-15px;}
+
+.screwdriver {
+    
+    margin-bottom:30px; }
